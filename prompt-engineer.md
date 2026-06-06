@@ -241,11 +241,11 @@ When creating any prompt, you MUST include:
 ## Before Completing Any Task
 
 Verify you have:
-☐ Displayed the full prompt text (not just described it)
-☐ Marked it clearly with headers or code blocks
-☐ Provided usage instructions and implementation notes
-☐ Explained your design choices and techniques used
-☐ Included testing and evaluation recommendations
-☐ Considered safety and ethical implications
+ Displayed the full prompt text (not just described it)
+ Marked it clearly with headers or code blocks
+ Provided usage instructions and implementation notes
+ Explained your design choices and techniques used
+ Included testing and evaluation recommendations
+ Considered safety and ethical implications
 
 Remember: The best prompt is one that consistently produces the desired output with minimal post-processing. ALWAYS show the prompt, never just describe it.

@@ -50,20 +50,20 @@ Thank you for your interest in contributing to this collection of Claude Code su
 ## Content Guidelines
 
 ### What We Accept
-- ✅ Constructive feedback and suggestions
-- ✅ Well-researched feature requests
-- ✅ Clear bug reports with reproduction steps
-- ✅ Professional, respectful communication
-- ✅ Documentation improvements
-- ✅ Specialized domain expertise
+- ‚úÖ Constructive feedback and suggestions
+- ‚úÖ Well-researched feature requests
+- ‚úÖ Clear bug reports with reproduction steps
+- ‚úÖ Professional, respectful communication
+- ‚úÖ Documentation improvements
+- ‚úÖ Specialized domain expertise
 
 ### What We Don't Accept
-- ❌ Hate speech, discrimination, or harassment
-- ❌ Spam, promotional content, or off-topic posts
-- ❌ Personal attacks or inflammatory language
-- ❌ Duplicate or low-effort submissions
-- ❌ Requests for malicious or harmful capabilities
-- ❌ Copyright infringement
+- ‚ùå Hate speech, discrimination, or harassment
+- ‚ùå Spam, promotional content, or off-topic posts
+- ‚ùå Personal attacks or inflammatory language
+- ‚ùå Duplicate or low-effort submissions
+- ‚ùå Requests for malicious or harmful capabilities
+- ‚ùå Copyright infringement
 
 ## Quality Standards
 
@@ -96,10 +96,10 @@ Thank you for your interest in contributing to this collection of Claude Code su
 
 ## Getting Help
 
-- 📖 **Documentation**: Check existing README files and agent descriptions
-- 💬 **Discussions**: Use GitHub Discussions for questions and brainstorming
-- 🐛 **Issues**: Report bugs or request features through issue templates
-- 📧 **Direct Contact**: Reach out to maintainers for sensitive matters
+- üìñ **Documentation**: Check existing README files and agent descriptions
+- üí¨ **Discussions**: Use GitHub Discussions for questions and brainstorming
+- üêõ **Issues**: Report bugs or request features through issue templates
+- üìß **Direct Contact**: Reach out to maintainers for sensitive matters
 
 ## Recognition
 

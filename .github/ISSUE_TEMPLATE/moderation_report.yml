@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        **⚠️ Use this template to report violations of our Code of Conduct,
+        ** Use this template to report violations of our Code of Conduct,
         inappropriate content, or concerning behavior.**
 
         All reports are taken seriously and will be reviewed by maintainers.
